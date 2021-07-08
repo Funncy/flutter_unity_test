@@ -1,0 +1,185 @@
+{
+  "Nodes": [
+    {
+      "Annotation": "all_tundra_nodes",
+      "Action": "",
+      "Inputs": [],
+      "Outputs": [],
+      "TargetDirectories": [],
+      "PassIndex": 0,
+      "Deps": [
+        1,
+        2,
+        3
+      ],
+      "OverwriteOutputs": true,
+      "FrontendResponseFiles": [],
+      "AllowUnexpectedOutput": true,
+      "AllowedOutputSubstrings": [],
+      "DebugActionIndex": 0
+    },
+    {
+      "Annotation": "Il2Cpp /Users/teddy/Desktop/study/flutter/unity_project/unity/MyFirstGame/Library/Il2cppBuildCache/iOS/il2cppOutput/Data/Metadata/global-metadata.dat",
+      "Action": "\"/Applications/Unity/Hub/Editor/2020.3.13f1/Unity.app/Contents/il2cpp/build/deploy/netcoreapp3.1/il2cpp\" --convert-to-cpp --emit-null-checks --enable-array-bounds-check --dotnetprofile=\"unityaot\" --additional-cpp=\"/Users/teddy/Desktop/study/flutter/unity_project/unity/MyFirstGame/Library/Il2cppBuildCache/iOS/additionalCppFiles/UnityClassRegistration.cpp\" --additional-cpp=\"/Users/teddy/Desktop/study/flutter/unity_project/unity/MyFirstGame/Library/Il2cppBuildCache/iOS/additionalCppFiles/UnityICallRegistration.cpp\" --avoid-dynamic-library-copy --profiler-report --map-file-parser=\"/Applications/Unity/Hub/Editor/2020.3.13f1/Unity.app/Contents/Tools/MapFileParser/MapFileParser\" --directory=\"/Users/teddy/Desktop/study/flutter/unity_project/unity/MyFirstGame/Temp/StagingArea/Data/Managed\" --generatedcppdir=\"/Users/teddy/Desktop/study/flutter/unity_project/unity/MyFirstGame/Library/Il2cppBuildCache/iOS/il2cppOutput\"",
+      "Inputs": [
+        "/Users/teddy/Desktop/study/flutter/unity_project/unity/MyFirstGame/Temp/StagingArea/Data/Managed",
+        "/Users/teddy/Desktop/study/flutter/unity_project/unity/MyFirstGame/Temp/StagingArea/Data/Managed/Assembly-CSharp.dll",
+        "/Users/teddy/Desktop/study/flutter/unity_project/unity/MyFirstGame/Temp/StagingArea/Data/Managed/Cinemachine.dll",
+        "/Users/teddy/Desktop/study/flutter/unity_project/unity/MyFirstGame/Temp/StagingArea/Data/Managed/Google.Protobuf.dll",
+        "/Users/teddy/Desktop/study/flutter/unity_project/unity/MyFirstGame/Temp/StagingArea/Data/Managed/KartGame.AI.dll",
+        "/Users/teddy/Desktop/study/flutter/unity_project/unity/MyFirstGame/Temp/StagingArea/Data/Managed/KartGame.dll",
+        "/Users/teddy/Desktop/study/flutter/unity_project/unity/MyFirstGame/Temp/StagingArea/Data/Managed/Mono.Security.dll",
+        "/Users/teddy/Desktop/study/flutter/unity_project/unity/MyFirstGame/Temp/StagingArea/Data/Managed/Newtonsoft.Json.dll",
+        "/Users/teddy/Desktop/study/flutter/unity_project/unity/MyFirstGame/Temp/StagingArea/Data/Managed/System.Configuration.dll",
+        "/Users/teddy/Desktop/study/flutter/unity_project/unity/MyFirstGame/Temp/StagingArea/Data/Managed/System.Core.dll",
+        "/Users/teddy/Desktop/study/flutter/unity_project/unity/MyFirstGame/Temp/StagingArea/Data/Managed/System.Data.dll",
+        "/Users/teddy/Desktop/study/flutter/unity_project/unity/MyFirstGame/Temp/StagingArea/Data/Managed/System.Numerics.dll",
+        "/Users/teddy/Desktop/study/flutter/unity_project/unity/MyFirstGame/Temp/StagingArea/Data/Managed/System.Runtime.Serialization.dll",
+        "/Users/teddy/Desktop/study/flutter/unity_project/unity/MyFirstGame/Temp/StagingArea/Data/Managed/System.Xml.Linq.dll",
+        "/Users/teddy/Desktop/study/flutter/unity_project/unity/MyFirstGame/Temp/StagingArea/Data/Managed/System.Xml.dll",
+        "/Users/teddy/Desktop/study/flutter/unity_project/unity/MyFirstGame/Temp/StagingArea/Data/Managed/System.dll",
+        "/Users/teddy/Desktop/study/flutter/unity_project/unity/MyFirstGame/Temp/StagingArea/Data/Managed/Unity.Barracuda.BurstBLAS.dll",
+        "/Users/teddy/Desktop/study/flutter/unity_project/unity/MyFirstGame/Temp/StagingArea/Data/Managed/Unity.Barracuda.dll",
+        "/Users/teddy/Desktop/study/flutter/unity_project/unity/MyFirstGame/Temp/StagingArea/Data/Managed/Unity.Barracuda.iOSBLAS.dll",
+        "/Users/teddy/Desktop/study/flutter/unity_project/unity/MyFirstGame/Temp/StagingArea/Data/Managed/Unity.Burst.dll",
+        "/Users/teddy/Desktop/study/flutter/unity_project/unity/MyFirstGame/Temp/StagingArea/Data/Managed/Unity.InteractiveTutorials.Core.Scripts.dll",
+        "/Users/teddy/Desktop/study/flutter/unity_project/unity/MyFirstGame/Temp/StagingArea/Data/Managed/Unity.ML-Agents.CommunicatorObjects.dll",
+        "/Users/teddy/Desktop/study/flutter/unity_project/unity/MyFirstGame/Temp/StagingArea/Data/Managed/Unity.ML-Agents.dll",
+        "/Users/teddy/Desktop/study/flutter/unity_project/unity/MyFirstGame/Temp/StagingArea/Data/Managed/Unity.Postprocessing.Runtime.dll",
+        "/Users/teddy/Desktop/study/flutter/unity_project/unity/MyFirstGame/Temp/StagingArea/Data/Managed/Unity.ProBuilder.dll",
+        "/Users/teddy/Desktop/study/flutter/unity_project/unity/MyFirstGame/Temp/StagingArea/Data/Managed/Unity.TextMeshPro.dll",
+        "/Users/teddy/Desktop/study/flutter/unity_project/unity/MyFirstGame/Temp/StagingArea/Data/Managed/Unity.Timeline.dll",
+        "/Users/teddy/Desktop/study/flutter/unity_project/unity/MyFirstGame/Temp/StagingArea/Data/Managed/UnityEngine.AIModule.dll",
+        "/Users/teddy/Desktop/study/flutter/unity_project/unity/MyFirstGame/Temp/StagingArea/Data/Managed/UnityEngine.AnimationModule.dll",
+        "/Users/teddy/Desktop/study/flutter/unity_project/unity/MyFirstGame/Temp/StagingArea/Data/Managed/UnityEngine.AudioModule.dll",
+        "/Users/teddy/Desktop/study/flutter/unity_project/unity/MyFirstGame/Temp/StagingArea/Data/Managed/UnityEngine.CoreModule.dll",
+        "/Users/teddy/Desktop/study/flutter/unity_project/unity/MyFirstGame/Temp/StagingArea/Data/Managed/UnityEngine.DirectorModule.dll",
+        "/Users/teddy/Desktop/study/flutter/unity_project/unity/MyFirstGame/Temp/StagingArea/Data/Managed/UnityEngine.GameCenterModule.dll",
+        "/Users/teddy/Desktop/study/flutter/unity_project/unity/MyFirstGame/Temp/StagingArea/Data/Managed/UnityEngine.GridModule.dll",
+        "/Users/teddy/Desktop/study/flutter/unity_project/unity/MyFirstGame/Temp/StagingArea/Data/Managed/UnityEngine.IMGUIModule.dll",
+        "/Users/teddy/Desktop/study/flutter/unity_project/unity/MyFirstGame/Temp/StagingArea/Data/Managed/UnityEngine.ImageConversionModule.dll",
+        "/Users/teddy/Desktop/study/flutter/unity_project/unity/MyFirstGame/Temp/StagingArea/Data/Managed/UnityEngine.InputLegacyModule.dll",
+        "/Users/teddy/Desktop/study/flutter/unity_project/unity/MyFirstGame/Temp/StagingArea/Data/Managed/UnityEngine.InputModule.dll",
+        "/Users/teddy/Desktop/study/flutter/unity_project/unity/MyFirstGame/Temp/StagingArea/Data/Managed/UnityEngine.ParticleSystemModule.dll",
+        "/Users/teddy/Desktop/study/flutter/unity_project/unity/MyFirstGame/Temp/StagingArea/Data/Managed/UnityEngine.Physics2DModule.dll",
+        "/Users/teddy/Desktop/study/flutter/unity_project/unity/MyFirstGame/Temp/StagingArea/Data/Managed/UnityEngine.PhysicsModule.dll",
+        "/Users/teddy/Desktop/study/flutter/unity_project/unity/MyFirstGame/Temp/StagingArea/Data/Managed/UnityEngine.ScreenCaptureModule.dll",
+        "/Users/teddy/Desktop/study/flutter/unity_project/unity/MyFirstGame/Temp/StagingArea/Data/Managed/UnityEngine.SharedInternalsModule.dll",
+        "/Users/teddy/Desktop/study/flutter/unity_project/unity/MyFirstGame/Temp/StagingArea/Data/Managed/UnityEngine.SpriteShapeModule.dll",
+        "/Users/teddy/Desktop/study/flutter/unity_project/unity/MyFirstGame/Temp/StagingArea/Data/Managed/UnityEngine.SubsystemsModule.dll",
+        "/Users/teddy/Desktop/study/flutter/unity_project/unity/MyFirstGame/Temp/StagingArea/Data/Managed/UnityEngine.TextCoreModule.dll",
+        "/Users/teddy/Desktop/study/flutter/unity_project/unity/MyFirstGame/Temp/StagingArea/Data/Managed/UnityEngine.TextRenderingModule.dll",
+        "/Users/teddy/Desktop/study/flutter/unity_project/unity/MyFirstGame/Temp/StagingArea/Data/Managed/UnityEngine.TilemapModule.dll",
+        "/Users/teddy/Desktop/study/flutter/unity_project/unity/MyFirstGame/Temp/StagingArea/Data/Managed/UnityEngine.UI.dll",
+        "/Users/teddy/Desktop/study/flutter/unity_project/unity/MyFirstGame/Temp/StagingArea/Data/Managed/UnityEngine.UIModule.dll",
+        "/Users/teddy/Desktop/study/flutter/unity_project/unity/MyFirstGame/Temp/StagingArea/Data/Managed/UnityEngine.VRModule.dll",
+        "/Users/teddy/Desktop/study/flutter/unity_project/unity/MyFirstGame/Temp/StagingArea/Data/Managed/UnityEngine.VehiclesModule.dll",
+        "/Users/teddy/Desktop/study/flutter/unity_project/unity/MyFirstGame/Temp/StagingArea/Data/Managed/UnityEngine.XRModule.dll",
+        "/Users/teddy/Desktop/study/flutter/unity_project/unity/MyFirstGame/Temp/StagingArea/Data/Managed/UnityEngine.dll",
+        "/Users/teddy/Desktop/study/flutter/unity_project/unity/MyFirstGame/Temp/StagingArea/Data/Managed/mscorlib.dll"
+      ],
+      "Outputs": [
+        "/Users/teddy/Desktop/study/flutter/unity_project/unity/MyFirstGame/Library/Il2cppBuildCache/iOS/il2cppOutput/Data/Metadata/global-metadata.dat"
+      ],
+      "TargetDirectories": [],
+      "PassIndex": 0,
+      "Deps": [],
+      "OverwriteOutputs": false,
+      "FrontendResponseFiles": [],
+      "AllowUnexpectedOutput": true,
+      "AllowedOutputSubstrings": [],
+      "DebugActionIndex": 1
+    },
+    {
+      "Annotation": "Copy Additional C++ File /Users/teddy/Desktop/study/flutter/unity_project/unity/MyFirstGame/Library/Il2cppBuildCache/iOS/il2cppOutput/UnityClassRegistration.cpp",
+      "Action": "cp \"/Users/teddy/Desktop/study/flutter/unity_project/unity/MyFirstGame/Library/Il2cppBuildCache/iOS/additionalCppFiles/UnityClassRegistration.cpp\" \"/Users/teddy/Desktop/study/flutter/unity_project/unity/MyFirstGame/Library/Il2cppBuildCache/iOS/il2cppOutput/UnityClassRegistration.cpp\" ",
+      "Inputs": [
+        "/Users/teddy/Desktop/study/flutter/unity_project/unity/MyFirstGame/Library/Il2cppBuildCache/iOS/additionalCppFiles/UnityClassRegistration.cpp"
+      ],
+      "Outputs": [
+        "/Users/teddy/Desktop/study/flutter/unity_project/unity/MyFirstGame/Library/Il2cppBuildCache/iOS/il2cppOutput/UnityClassRegistration.cpp"
+      ],
+      "TargetDirectories": [],
+      "PassIndex": 0,
+      "Deps": [
+        1
+      ],
+      "OverwriteOutputs": true,
+      "FrontendResponseFiles": [],
+      "AllowUnexpectedOutput": true,
+      "AllowedOutputSubstrings": [],
+      "DebugActionIndex": 2
+    },
+    {
+      "Annotation": "Copy Additional C++ File /Users/teddy/Desktop/study/flutter/unity_project/unity/MyFirstGame/Library/Il2cppBuildCache/iOS/il2cppOutput/UnityICallRegistration.cpp",
+      "Action": "cp \"/Users/teddy/Desktop/study/flutter/unity_project/unity/MyFirstGame/Library/Il2cppBuildCache/iOS/additionalCppFiles/UnityICallRegistration.cpp\" \"/Users/teddy/Desktop/study/flutter/unity_project/unity/MyFirstGame/Library/Il2cppBuildCache/iOS/il2cppOutput/UnityICallRegistration.cpp\" ",
+      "Inputs": [
+        "/Users/teddy/Desktop/study/flutter/unity_project/unity/MyFirstGame/Library/Il2cppBuildCache/iOS/additionalCppFiles/UnityICallRegistration.cpp"
+      ],
+      "Outputs": [
+        "/Users/teddy/Desktop/study/flutter/unity_project/unity/MyFirstGame/Library/Il2cppBuildCache/iOS/il2cppOutput/UnityICallRegistration.cpp"
+      ],
+      "TargetDirectories": [],
+      "PassIndex": 0,
+      "Deps": [
+        1
+      ],
+      "OverwriteOutputs": true,
+      "FrontendResponseFiles": [],
+      "AllowUnexpectedOutput": true,
+      "AllowedOutputSubstrings": [],
+      "DebugActionIndex": 3
+    }
+  ],
+  "FileSignatures": [
+    {
+      "File": "../../../../../../../../../Library"
+    },
+    {
+      "File": "../../../Temp/StagingArea/Data/Managed"
+    },
+    {
+      "File": "artifacts/buildprogram/tundra_buildprogram.dag.json"
+    },
+    {
+      "File": "il2cpp_settings.json"
+    },
+    {
+      "File": "unitylinker_settings.json"
+    }
+  ],
+  "GlobSignatures": [
+    {
+      "Path": "../../../Temp/StagingArea/Data/Managed"
+    }
+  ],
+  "ContentDigestExtensions": [
+    ".rsp",
+    ".dll",
+    ".exe",
+    ".txt",
+    ".c",
+    ".cpp",
+    ".h",
+    ".cs",
+    ".hpp"
+  ],
+  "StructuredLogFileName": "artifacts/tundra.log.json",
+  "StateFileName": "artifacts/TundraBuildState.state",
+  "StateFileNameTmp": "artifacts/TundraBuildState.state.tmp",
+  "ScanCacheFileName": "artifacts/tundra.scancache",
+  "ScanCacheFileNameTmp": "artifacts/tundra.scancache.tmp",
+  "DigestCacheFileName": "artifacts/tundra.digestcache",
+  "DigestCacheFileNameTmp": "artifacts/tundra.digestcache.tmp",
+        "NamedNodes": {
+          "all_tundra_nodes": 0
+        }
+,  "DefaultNodes": [
+    0
+  ],
+  "SharedResources": [],
+  "Scanners": [],
+  "Identifier": "artifacts/tundra.dag.json",
+  "BuildTitle": "Bee",
+  "RelativePathToRoot": ".."
+}

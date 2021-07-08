@@ -1,0 +1,40 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Karting/Scripts/car.cs">
+    <Files>
+      <File FileName="Assets/FlutterUnityIntegration/Editor/Build.cs" Line="142" Column="49" />
+      <File FileName="Assets/Karting/Scripts/car.cs" Line="73" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MyFirstGame" expanded="True">
+            <Node name="Assembly-CSharp-Editor" expanded="True">
+              <Node name="Assets" expanded="True">
+                <Node name="FlutterUnityIntegration" expanded="True">
+                  <Node name="Editor" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+            <Node name="KartGame" expanded="True">
+              <Node name="Assets" expanded="True">
+                <Node name="Karting" expanded="True">
+                  <Node name="Scripts" expanded="True">
+                    <Node name="Utilities" expanded="True" />
+                    <Node name="car.cs" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="7a7fc120-5fd2-4f84-92f5-4f4a51930f8f" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
